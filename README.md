@@ -7,6 +7,6 @@ For example to create a quote:
 or to create a code section:
 
 ```
-import math
+import math;
 print sin(0.5*math.Pi);
 ```
