@@ -2,7 +2,7 @@
 Project to learn how to use GitHub
 ## This is a readme to explore the syntax used on markdown files
 For example to create a quote:
-|Vini, Vidi, Vici
+>Vini, Vidi, Vici
 or to create a code section:
 '''
 import math
