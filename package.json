@@ -1,0 +1,23 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Simple nodejs server",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altorios/hola-mundo.git"
+  },
+  "keywords": [
+    "server",
+    "nodejs"
+  ],
+  "author": "Altorios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/altorios/hola-mundo/issues"
+  },
+  "homepage": "https://github.com/altorios/hola-mundo#readme"
+}
